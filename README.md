@@ -1,0 +1,4 @@
+ResqueRufusScheduler
+====================
+
+Resque + Rufus-scheduler
